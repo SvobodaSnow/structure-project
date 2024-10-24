@@ -62,6 +62,8 @@ class DrawFile:
         self.body.append(s_text.format(self.id, self.id_element, text, x_start, y_start, width, height))
 
     def add_ellipse(self, x_start, y_start, width, height=None, text=''):
+        if height is None:
+            height = width
         self.id_element += 1
         self.body.append(s_ellipse.format(self.id, self.id_element, text, x_start, y_start, width, height))
         return
