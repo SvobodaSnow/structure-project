@@ -1,0 +1,339 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Страница — 1" id="aamezZmQvxMuSM1Q3HjA">
+    <mxGraphModel dx="2300" dy="1230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RahjrXYwiV-1" value="Main" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="80" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-2" value="Default_value" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="120" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="120" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-4" value="Функция для сброса уставок до стандартных" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="119" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="140" as="sourcePoint" />
+            <mxPoint x="120" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="140" as="sourcePoint" />
+            <mxPoint x="620" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-7" value="Persist" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="200" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="200" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-9" value="Функция для сохранения уставок в памяти ПЛК" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="199" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="220" as="sourcePoint" />
+            <mxPoint x="120" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="220" as="sourcePoint" />
+            <mxPoint x="620" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-12" value="Persist_HVAC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="280" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="280" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-14" value="Функция сохранения параметров блоков HVAC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="279" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="300" as="sourcePoint" />
+            <mxPoint x="120" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="300" as="sourcePoint" />
+            <mxPoint x="620" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-17" value="IM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="360" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="360" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-19" value="Папка с функциями управления механизмами" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="359" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="380" as="sourcePoint" />
+            <mxPoint x="120" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="380" as="sourcePoint" />
+            <mxPoint x="620" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-22" value="MP2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="440" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="440" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-24" value="Папка с функциями управления приточным вентилятором MP2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="439" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="460" as="sourcePoint" />
+            <mxPoint x="240" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="460" as="sourcePoint" />
+            <mxPoint x="620" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-27" value="MV2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="520" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="520" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-29" value="Папка с функциями управления вытяжным вентилятором MV2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="519" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="540" as="sourcePoint" />
+            <mxPoint x="240" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="540" as="sourcePoint" />
+            <mxPoint x="620" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="400" as="sourcePoint" />
+            <mxPoint x="200" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-33" value="Input" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="600" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="600" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-35" value="Папка с функциями обработки внешних данных" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="599" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="620" as="sourcePoint" />
+            <mxPoint x="120" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="620" as="sourcePoint" />
+            <mxPoint x="620" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-38" value="AI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="680" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="680" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-40" value="Папка с функциями обработки входных аналоговых сигналов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="679" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-41" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="700" as="sourcePoint" />
+            <mxPoint x="240" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="700" as="sourcePoint" />
+            <mxPoint x="620" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-43" value="CI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="760" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="760" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-45" value="Папка с функциями обработки входных цифровых сигналов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="759" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-46" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="780" as="sourcePoint" />
+            <mxPoint x="240" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-47" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="780" as="sourcePoint" />
+            <mxPoint x="620" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-48" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="640" as="sourcePoint" />
+            <mxPoint x="200" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-49" value="Lib" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="840" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="840" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-51" value="Папка с библиотеками для функций" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="839" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-52" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="860" as="sourcePoint" />
+            <mxPoint x="120" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-53" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="860" as="sourcePoint" />
+            <mxPoint x="620" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-54" value="Output" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="920" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="920" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-56" value="Папка с функциями обработки выходных сигналов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="919" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-57" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="940" as="sourcePoint" />
+            <mxPoint x="120" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-58" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="940" as="sourcePoint" />
+            <mxPoint x="620" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-59" value="AO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1000" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1000" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-61" value="Папка с функциями обработки выходных аналоговых сигналов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="999" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-62" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1020" as="sourcePoint" />
+            <mxPoint x="240" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-63" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1020" as="sourcePoint" />
+            <mxPoint x="620" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-64" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="960" as="sourcePoint" />
+            <mxPoint x="200" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-65" value="Regim" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1240" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1240" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-67" value="Папка с функциями включения режимов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1239" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-68" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="1260" as="sourcePoint" />
+            <mxPoint x="120" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-69" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="1260" as="sourcePoint" />
+            <mxPoint x="620" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-70" value="TZBiS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1320" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1320" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-72" value="Папка с функциями защит и сигнализаций" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1319" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-73" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="1340" as="sourcePoint" />
+            <mxPoint x="120" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-74" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="1340" as="sourcePoint" />
+            <mxPoint x="620" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-75" value="S" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1400" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1400" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-77" value="Папка с функциями сигнализаций" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1399" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-78" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1420" as="sourcePoint" />
+            <mxPoint x="240" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-79" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1420" as="sourcePoint" />
+            <mxPoint x="620" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-80" value="TZB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1480" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-81" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1480" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-82" value="Папка с функциями защит" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1479" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-83" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1500" as="sourcePoint" />
+            <mxPoint x="240" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-84" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1500" as="sourcePoint" />
+            <mxPoint x="620" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-85" value="Z_MP2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1560" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-86" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1560" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-87" value="Папка с защитами приточного вентилятора MP2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1559" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-88" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1580" as="sourcePoint" />
+            <mxPoint x="360" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-89" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1580" as="sourcePoint" />
+            <mxPoint x="620" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-90" value="Z_MV2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1640" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-91" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1640" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-92" value="Папка с защитами вытяжного вентилятора MV2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1639" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-93" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1660" as="sourcePoint" />
+            <mxPoint x="360" y="1660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-94" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1660" as="sourcePoint" />
+            <mxPoint x="620" y="1660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-95" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1520" as="sourcePoint" />
+            <mxPoint x="320" y="1660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-96" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1360" as="sourcePoint" />
+            <mxPoint x="200" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-97" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="80" as="sourcePoint" />
+            <mxPoint x="80" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="RahjrXYwiV-98" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1080" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-99" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1200" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="RahjrXYwiV-100" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="1240" as="sourcePoint" />
+            <mxPoint x="80" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

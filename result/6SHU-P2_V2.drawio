@@ -1,0 +1,1585 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Страница — 1" id="aamezZmQvxMuSM1Q3HjA">
+    <mxGraphModel dx="2300" dy="1230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oqpHpLzVFz-1" value="Main" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="80" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-2" value="Default_value" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="120" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="120" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-4" value="Функция для сброса уставок до стандартных" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="119" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="140" as="sourcePoint" />
+            <mxPoint x="120" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="140" as="sourcePoint" />
+            <mxPoint x="620" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-7" value="Persist" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="200" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="200" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-9" value="Функция для сохранения уставок в памяти ПЛК" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="199" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="220" as="sourcePoint" />
+            <mxPoint x="120" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="220" as="sourcePoint" />
+            <mxPoint x="620" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-12" value="Persist_HVAC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="280" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="280" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-14" value="Функция сохранения параметров блоков HVAC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="279" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="300" as="sourcePoint" />
+            <mxPoint x="120" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="300" as="sourcePoint" />
+            <mxPoint x="620" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-17" value="IM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="360" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="360" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-19" value="Папка с функциями управления механизмами" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="359" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="380" as="sourcePoint" />
+            <mxPoint x="120" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="380" as="sourcePoint" />
+            <mxPoint x="620" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-22" value="ALL_IM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="440" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="440" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-24" value="Функции управления механизмами" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="439" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="460" as="sourcePoint" />
+            <mxPoint x="240" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="460" as="sourcePoint" />
+            <mxPoint x="620" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-27" value="P1_Upr" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="520" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="520" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-29" value="Функция управления насосом P1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="519" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="540" as="sourcePoint" />
+            <mxPoint x="240" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="540" as="sourcePoint" />
+            <mxPoint x="620" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-32" value="razr_pusk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="600" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="600" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-34" value="Функция разрешения на пуск" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="599" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="620" as="sourcePoint" />
+            <mxPoint x="240" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="620" as="sourcePoint" />
+            <mxPoint x="620" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-37" value="YA1_Upr" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="680" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="680" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-39" value="Функция управления регулятором YA1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="679" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="700" as="sourcePoint" />
+            <mxPoint x="240" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-41" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="700" as="sourcePoint" />
+            <mxPoint x="620" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-42" value="YA2_Upr" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="760" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="760" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-44" value="Функция управления регулятором YA2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="759" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-45" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="780" as="sourcePoint" />
+            <mxPoint x="240" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-46" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="780" as="sourcePoint" />
+            <mxPoint x="620" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-47" value="YA3_Upr" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="840" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="840" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-49" value="Функция управления регулятором YA3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="839" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-50" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="860" as="sourcePoint" />
+            <mxPoint x="240" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="860" as="sourcePoint" />
+            <mxPoint x="620" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-52" value="YA4_Upr" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="920" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="920" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-54" value="Функция управления регулятором YA4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="919" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-55" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="940" as="sourcePoint" />
+            <mxPoint x="240" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-56" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="940" as="sourcePoint" />
+            <mxPoint x="620" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-57" value="MP2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1000" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1000" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-59" value="Папка с функциями управления приточным вентилятором MP2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="999" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-60" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1020" as="sourcePoint" />
+            <mxPoint x="240" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-61" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1020" as="sourcePoint" />
+            <mxPoint x="620" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-62" value="CHASTOTA_M1_M2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1240" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1240" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-64" value="Функция регулирования частоты" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1239" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-65" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1260" as="sourcePoint" />
+            <mxPoint x="360" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-66" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1260" as="sourcePoint" />
+            <mxPoint x="620" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-67" value="CHASTOTA_MP2_OLD" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1320" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1320" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-69" value="Функция регулирования частоты" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1319" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-70" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1340" as="sourcePoint" />
+            <mxPoint x="360" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-71" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1340" as="sourcePoint" />
+            <mxPoint x="620" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-72" value="MP2_1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1400" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1400" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-74" value="Функция управления приточным вентилятором MP2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1399" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-75" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1420" as="sourcePoint" />
+            <mxPoint x="360" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-76" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1420" as="sourcePoint" />
+            <mxPoint x="620" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-77" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1040" as="sourcePoint" />
+            <mxPoint x="320" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-78" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1080" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-79" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1200" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-80" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1240" as="sourcePoint" />
+            <mxPoint x="320" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-81" value="MV2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1480" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1480" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-83" value="Папка с функциями управления вытяжным вентилятором MV2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1479" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-84" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1500" as="sourcePoint" />
+            <mxPoint x="240" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-85" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1500" as="sourcePoint" />
+            <mxPoint x="620" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-86" value="MV2_1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1560" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-87" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1560" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-88" value="Функция управления вытяжным вентилятором MV2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1559" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-89" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1580" as="sourcePoint" />
+            <mxPoint x="360" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-90" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1580" as="sourcePoint" />
+            <mxPoint x="620" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-91" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1520" as="sourcePoint" />
+            <mxPoint x="320" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-92" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="400" as="sourcePoint" />
+            <mxPoint x="200" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-93" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1080" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-94" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1200" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-95" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1240" as="sourcePoint" />
+            <mxPoint x="200" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-96" value="Input" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1640" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-97" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1640" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-98" value="Папка с функциями обработки внешних данных" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1639" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-99" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="1660" as="sourcePoint" />
+            <mxPoint x="120" y="1660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-100" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="1660" as="sourcePoint" />
+            <mxPoint x="620" y="1660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-101" value="ALL_Input" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1720" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-102" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1720" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-103" value="Функции для опроса и обработки входных переменных" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1719" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-104" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1740" as="sourcePoint" />
+            <mxPoint x="240" y="1740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-105" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1740" as="sourcePoint" />
+            <mxPoint x="620" y="1740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-106" value="VALID_VH_VEL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1800" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-107" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1800" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-108" value="Функция проверки входных величин" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1799" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-109" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1820" as="sourcePoint" />
+            <mxPoint x="240" y="1820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-110" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1820" as="sourcePoint" />
+            <mxPoint x="620" y="1820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-111" value="AI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1880" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-112" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1880" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-113" value="Папка с функциями обработки входных аналоговых сигналов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1879" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-114" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1900" as="sourcePoint" />
+            <mxPoint x="240" y="1900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-115" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1900" as="sourcePoint" />
+            <mxPoint x="620" y="1900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-116" value="TE1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1960" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-117" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1960" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-118" value="Функция обработки показаний с датчика температуры TE1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1959" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-119" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1980" as="sourcePoint" />
+            <mxPoint x="360" y="1980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-120" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1980" as="sourcePoint" />
+            <mxPoint x="620" y="1980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-121" value="TE4" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="2040" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-122" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2040" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-123" value="Функция обработки показаний с датчика температуры TE4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2039" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-124" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="2060" as="sourcePoint" />
+            <mxPoint x="360" y="2060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-125" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="2060" as="sourcePoint" />
+            <mxPoint x="620" y="2060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-126" value="TE6_T" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="2120" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-127" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2120" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-128" value="Функция обработки показаний с датчика температуры TE6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2119" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-129" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="2140" as="sourcePoint" />
+            <mxPoint x="360" y="2140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-130" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="2140" as="sourcePoint" />
+            <mxPoint x="620" y="2140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-131" value="YA3_POS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="2200" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-132" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2200" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-133" value="Функция обработки показаний положения клапана YA3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2199" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-134" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="2220" as="sourcePoint" />
+            <mxPoint x="360" y="2220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-135" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="2220" as="sourcePoint" />
+            <mxPoint x="620" y="2220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-136" value="YA4_POS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="2410" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-137" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2410" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-138" value="Функция обработки показаний положения клапана YA4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2409" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-139" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="2430" as="sourcePoint" />
+            <mxPoint x="360" y="2430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-140" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="2430" as="sourcePoint" />
+            <mxPoint x="620" y="2430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-141" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1920" as="sourcePoint" />
+            <mxPoint x="320" y="2250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-142" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2250" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-143" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2370" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-144" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="2410" as="sourcePoint" />
+            <mxPoint x="320" y="2430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-145" value="CI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="2490" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-146" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2490" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-147" value="Папка с функциями обработки входных цифровых сигналов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2489" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-148" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="2510" as="sourcePoint" />
+            <mxPoint x="240" y="2510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-149" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="2510" as="sourcePoint" />
+            <mxPoint x="620" y="2510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-150" value="ModBus_M" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="2570" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-151" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2570" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-152" value="Функция обработки ModBus запросов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2569" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-153" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="2590" as="sourcePoint" />
+            <mxPoint x="360" y="2590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-154" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="2590" as="sourcePoint" />
+            <mxPoint x="620" y="2590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-155" value="MP2_1_OB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="2650" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-156" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2650" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-157" value="Функция обработки обратной связи по частоте с двигателя MP2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2649" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-158" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="2670" as="sourcePoint" />
+            <mxPoint x="360" y="2670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-159" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="2670" as="sourcePoint" />
+            <mxPoint x="620" y="2670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-160" value="MV2_1_OB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="2730" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-161" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2730" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-162" value="Функция обработки обратной связи по частоте с двигателя MV2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2729" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-163" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="2750" as="sourcePoint" />
+            <mxPoint x="360" y="2750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-164" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="2750" as="sourcePoint" />
+            <mxPoint x="620" y="2750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-165" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="2530" as="sourcePoint" />
+            <mxPoint x="320" y="2750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-166" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1680" as="sourcePoint" />
+            <mxPoint x="200" y="2250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-167" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2250" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-168" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2370" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-169" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="2410" as="sourcePoint" />
+            <mxPoint x="200" y="2510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-170" value="Lib" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="2810" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-171" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2810" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-172" value="Папка с библиотеками для функций" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2809" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-173" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="2830" as="sourcePoint" />
+            <mxPoint x="120" y="2830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-174" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="2830" as="sourcePoint" />
+            <mxPoint x="620" y="2830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-175" value="ISTOK_ANALOGVH" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="2890" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-176" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2890" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-177" value="Функция обработки аналогового сигнала" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2889" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-178" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="2910" as="sourcePoint" />
+            <mxPoint x="240" y="2910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-179" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="2910" as="sourcePoint" />
+            <mxPoint x="620" y="2910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-180" value="ISTOK_EQ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="2970" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-181" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2970" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-182" value="Функция проверки эквивалентности двух значений с гистерезисом" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2969" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-183" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="2990" as="sourcePoint" />
+            <mxPoint x="240" y="2990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-184" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="2990" as="sourcePoint" />
+            <mxPoint x="620" y="2990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-185" value="ISTOK_GT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="3050" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-186" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="3050" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-187" value="Функция больше с гистерезисом" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="3049" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-188" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="3070" as="sourcePoint" />
+            <mxPoint x="240" y="3070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-189" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="3070" as="sourcePoint" />
+            <mxPoint x="620" y="3070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-190" value="ISTOK_LT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="3130" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-191" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="3130" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-192" value="Функция меньше с гистерезисом" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="3129" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-193" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="3150" as="sourcePoint" />
+            <mxPoint x="240" y="3150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-194" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="3150" as="sourcePoint" />
+            <mxPoint x="620" y="3150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-195" value="ISTOK_TaskCycleTime" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="3210" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-196" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="3210" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-197" value="Функция получения времени на один цикл программы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="3209" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-198" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="3230" as="sourcePoint" />
+            <mxPoint x="240" y="3230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-199" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="3230" as="sourcePoint" />
+            <mxPoint x="620" y="3230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-200" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="2850" as="sourcePoint" />
+            <mxPoint x="200" y="3230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-201" value="Output" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="3290" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-202" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="3290" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-203" value="Папка с функциями обработки выходных сигналов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="3289" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-204" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="3310" as="sourcePoint" />
+            <mxPoint x="120" y="3310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-205" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="3310" as="sourcePoint" />
+            <mxPoint x="620" y="3310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-206" value="ALL_Output" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="3370" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-207" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="3370" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-208" value="Функции выдачи и обработки выходных сигналов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="3369" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-209" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="3390" as="sourcePoint" />
+            <mxPoint x="240" y="3390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-210" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="3390" as="sourcePoint" />
+            <mxPoint x="620" y="3390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-211" value="AO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="3580" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-212" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="3580" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-213" value="Папка с функциями обработки выходных аналоговых сигналов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="3579" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-214" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="3600" as="sourcePoint" />
+            <mxPoint x="240" y="3600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-215" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="3600" as="sourcePoint" />
+            <mxPoint x="620" y="3600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-216" value="MP2_1_Z" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="3660" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-217" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="3660" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-218" value="Функция обработки задания по частоте для двигателя MP2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="3659" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-219" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="3680" as="sourcePoint" />
+            <mxPoint x="360" y="3680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-220" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="3680" as="sourcePoint" />
+            <mxPoint x="620" y="3680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-221" value="MV2_1_Z" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="3740" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-222" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="3740" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-223" value="Функция обработки задания по частоте для двигателя MV2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="3739" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-224" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="3760" as="sourcePoint" />
+            <mxPoint x="360" y="3760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-225" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="3760" as="sourcePoint" />
+            <mxPoint x="620" y="3760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-226" value="YA3_Z" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="3820" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-227" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="3820" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-228" value="Функция обработки задания по положению для клапана YA3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="3819" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-229" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="3840" as="sourcePoint" />
+            <mxPoint x="360" y="3840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-230" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="3840" as="sourcePoint" />
+            <mxPoint x="620" y="3840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-231" value="YA4_Z" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="3900" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-232" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="3900" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-233" value="Функция обработки задания по положению для клапана YA4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="3899" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-234" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="3920" as="sourcePoint" />
+            <mxPoint x="360" y="3920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-235" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="3920" as="sourcePoint" />
+            <mxPoint x="620" y="3920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-236" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="3620" as="sourcePoint" />
+            <mxPoint x="320" y="3920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-237" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="3330" as="sourcePoint" />
+            <mxPoint x="200" y="3420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-238" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="3420" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-239" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="3540" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-240" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="3580" as="sourcePoint" />
+            <mxPoint x="200" y="3600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-241" value="Regim" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="3980" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-242" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="3980" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-243" value="Папка с функциями включения режимов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="3979" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-244" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="4000" as="sourcePoint" />
+            <mxPoint x="120" y="4000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-245" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="4000" as="sourcePoint" />
+            <mxPoint x="620" y="4000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-246" value="ALL_Regim" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="4060" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-247" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="4060" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-248" value="Функции включения режимов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4059" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-249" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="4080" as="sourcePoint" />
+            <mxPoint x="240" y="4080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-250" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="4080" as="sourcePoint" />
+            <mxPoint x="620" y="4080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-251" value="Ostanov" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="4140" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-252" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="4140" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-253" value="Функция выбора режима &quot;ОСТАНОВ&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4139" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-254" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="4160" as="sourcePoint" />
+            <mxPoint x="240" y="4160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-255" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="4160" as="sourcePoint" />
+            <mxPoint x="620" y="4160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-256" value="Progrev" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="4220" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-257" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="4220" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-258" value="Функция выбора режима &quot;ПРОГРЕВ&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4219" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-259" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="4240" as="sourcePoint" />
+            <mxPoint x="240" y="4240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-260" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="4240" as="sourcePoint" />
+            <mxPoint x="620" y="4240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-261" value="Pusk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="4300" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-262" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="4300" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-263" value="Функция выбора режима &quot;ПУСК&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4299" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-264" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="4320" as="sourcePoint" />
+            <mxPoint x="240" y="4320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-265" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="4320" as="sourcePoint" />
+            <mxPoint x="620" y="4320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-266" value="Rabota" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="4380" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-267" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="4380" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-268" value="Функция выбора режима &quot;РАБОТА&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4379" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-269" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="4400" as="sourcePoint" />
+            <mxPoint x="240" y="4400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-270" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="4400" as="sourcePoint" />
+            <mxPoint x="620" y="4400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-271" value="Sezon" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="4460" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-272" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="4460" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-273" value="Функция выбора сезона работы &quot;ЗИМА/ЛЕТО&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4459" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-274" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="4480" as="sourcePoint" />
+            <mxPoint x="240" y="4480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-275" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="4480" as="sourcePoint" />
+            <mxPoint x="620" y="4480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-276" value="Sost" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="4540" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-277" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="4540" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-278" value="Функция &quot;ВКЛ/ВЫКЛ&quot; установки" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4539" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-279" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="4560" as="sourcePoint" />
+            <mxPoint x="240" y="4560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-280" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="4560" as="sourcePoint" />
+            <mxPoint x="620" y="4560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-281" value="Stop" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="4750" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-282" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="4750" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-283" value="Функция выбора режима &quot;СТОП&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4749" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-284" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="4770" as="sourcePoint" />
+            <mxPoint x="240" y="4770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-285" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="4770" as="sourcePoint" />
+            <mxPoint x="620" y="4770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-286" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="4020" as="sourcePoint" />
+            <mxPoint x="200" y="4590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-287" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="4590" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-288" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="4710" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-289" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="4750" as="sourcePoint" />
+            <mxPoint x="200" y="4770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-290" value="TZBiS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="4830" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-291" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="4830" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-292" value="Папка с функциями защит и сигнализаций" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4829" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-293" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="4850" as="sourcePoint" />
+            <mxPoint x="120" y="4850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-294" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="4850" as="sourcePoint" />
+            <mxPoint x="620" y="4850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-295" value="S" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="4910" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-296" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="4910" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-297" value="Папка с функциями сигнализаций" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4909" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-298" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="4930" as="sourcePoint" />
+            <mxPoint x="240" y="4930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-299" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="4930" as="sourcePoint" />
+            <mxPoint x="620" y="4930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-300" value="ALL_S" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="4990" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-301" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="4990" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-302" value="Функции отслеживания сигнализаций" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4989" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-303" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="5010" as="sourcePoint" />
+            <mxPoint x="360" y="5010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-304" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="5010" as="sourcePoint" />
+            <mxPoint x="620" y="5010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-305" value="GVS1_R" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="5070" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-306" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="5070" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-307" value="Функция сигнализации работы ГВС1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="5069" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-308" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="5090" as="sourcePoint" />
+            <mxPoint x="360" y="5090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-309" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="5090" as="sourcePoint" />
+            <mxPoint x="620" y="5090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-310" value="GVS2_R" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="5150" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-311" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="5150" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-312" value="Функция сигнализации работы ГВС2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="5149" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-313" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="5170" as="sourcePoint" />
+            <mxPoint x="360" y="5170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-314" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="5170" as="sourcePoint" />
+            <mxPoint x="620" y="5170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-315" value="HVS_R" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="5230" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-316" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="5230" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-317" value="Функция сигнализации работы ХВС" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="5229" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-318" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="5250" as="sourcePoint" />
+            <mxPoint x="360" y="5250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-319" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="5250" as="sourcePoint" />
+            <mxPoint x="620" y="5250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-320" value="S_STER_REG" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="5310" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-321" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="5310" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-322" value="Функция сигнализации работы стерегущего режима" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="5309" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-323" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="5330" as="sourcePoint" />
+            <mxPoint x="360" y="5330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-324" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="5330" as="sourcePoint" />
+            <mxPoint x="620" y="5330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-325" value="S_ZAM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="5390" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-326" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="5390" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-327" value="Функция сигнализации заморозки" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="5389" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-328" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="5410" as="sourcePoint" />
+            <mxPoint x="360" y="5410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-329" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="5410" as="sourcePoint" />
+            <mxPoint x="620" y="5410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-330" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="4950" as="sourcePoint" />
+            <mxPoint x="320" y="5410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-331" value="TZB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="5470" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-332" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="5470" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-333" value="Папка с функциями защит" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="5469" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-334" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="5490" as="sourcePoint" />
+            <mxPoint x="240" y="5490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-335" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="5490" as="sourcePoint" />
+            <mxPoint x="620" y="5490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-336" value="ALL_TZB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="5550" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-337" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="5550" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-338" value="Функции отслеживания защит" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="5549" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-339" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="5570" as="sourcePoint" />
+            <mxPoint x="360" y="5570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-340" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="5570" as="sourcePoint" />
+            <mxPoint x="620" y="5570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-341" value="Sbros_All" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="5630" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-342" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="5630" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-343" value="Функция связи кнопок сброса" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="5629" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-344" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="5650" as="sourcePoint" />
+            <mxPoint x="360" y="5650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-345" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="5650" as="sourcePoint" />
+            <mxPoint x="620" y="5650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-346" value="Z_ALL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="5710" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-347" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="5710" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-348" value="Функция вызова всех защит" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="5709" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-349" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="5730" as="sourcePoint" />
+            <mxPoint x="360" y="5730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-350" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="5730" as="sourcePoint" />
+            <mxPoint x="620" y="5730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-351" value="Z_FC_NPit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="5920" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-352" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="5920" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-353" value="Защита нет питания вторичных линий" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="5919" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-354" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="5940" as="sourcePoint" />
+            <mxPoint x="360" y="5940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-355" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="5940" as="sourcePoint" />
+            <mxPoint x="620" y="5940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-356" value="Z_GVS1_Otk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="6000" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-357" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="6000" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-358" value="Функция защиты отказа ГВС1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="5999" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-359" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="6020" as="sourcePoint" />
+            <mxPoint x="360" y="6020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-360" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="6020" as="sourcePoint" />
+            <mxPoint x="620" y="6020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-361" value="Z_NET_VKH_NAPR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="6080" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-362" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="6080" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-363" value="Функция защиты нет входного напряжения" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="6079" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-364" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="6100" as="sourcePoint" />
+            <mxPoint x="360" y="6100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-365" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="6100" as="sourcePoint" />
+            <mxPoint x="620" y="6100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-366" value="Z_OTKAZ_VTOR_ZEP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="6160" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-367" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="6160" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-368" value="Функция защиты отказа вторичных цепей" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="6159" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-369" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="6180" as="sourcePoint" />
+            <mxPoint x="360" y="6180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-370" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="6180" as="sourcePoint" />
+            <mxPoint x="620" y="6180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-371" value="Z_P1_NP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="6240" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-372" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="6240" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-373" value="Функция защиты по отсутствию питания насоса P1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="6239" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-374" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="6260" as="sourcePoint" />
+            <mxPoint x="360" y="6260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-375" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="6260" as="sourcePoint" />
+            <mxPoint x="620" y="6260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-376" value="Z_Pozhar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="6320" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-377" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="6320" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-378" value="Функция защиты по сигналу пожар" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="6319" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-379" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="6340" as="sourcePoint" />
+            <mxPoint x="360" y="6340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-380" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="6340" as="sourcePoint" />
+            <mxPoint x="620" y="6340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-381" value="Z_YA1_Otk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="6400" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-382" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="6400" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-383" value="Функция защиты по отказу клапана YA1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="6399" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-384" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="6420" as="sourcePoint" />
+            <mxPoint x="360" y="6420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-385" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="6420" as="sourcePoint" />
+            <mxPoint x="620" y="6420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-386" value="Z_YA1_YA2_NPit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="6480" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-387" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="6480" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-388" value="Функция защиты по отсутствию питания для клапанов YA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="6479" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-389" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="6500" as="sourcePoint" />
+            <mxPoint x="360" y="6500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-390" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="6500" as="sourcePoint" />
+            <mxPoint x="620" y="6500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-391" value="Z_YA2_Otk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="6560" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-392" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="6560" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-393" value="Функция защиты по отказу клапана YA2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="6559" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-394" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="6580" as="sourcePoint" />
+            <mxPoint x="360" y="6580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-395" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="6580" as="sourcePoint" />
+            <mxPoint x="620" y="6580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-396" value="Z_YA3_Otk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="6640" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-397" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="6640" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-398" value="Функция защиты по отказу клапана YA3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="6639" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-399" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="6660" as="sourcePoint" />
+            <mxPoint x="360" y="6660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-400" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="6660" as="sourcePoint" />
+            <mxPoint x="620" y="6660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-401" value="Z_YA4_Otk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="6720" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-402" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="6720" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-403" value="Функция защиты по отказу клапана YA4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="6719" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-404" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="6740" as="sourcePoint" />
+            <mxPoint x="360" y="6740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-405" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="6740" as="sourcePoint" />
+            <mxPoint x="620" y="6740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-406" value="Z_Zam" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="6800" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-407" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="6800" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-408" value="Функция защиты по заморозке" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="6799" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-409" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="6820" as="sourcePoint" />
+            <mxPoint x="360" y="6820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-410" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="6820" as="sourcePoint" />
+            <mxPoint x="620" y="6820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-411" value="Z_MP2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="6880" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-412" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="6880" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-413" value="Папка с защитами приточного вентилятора MP2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="6879" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-414" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="6900" as="sourcePoint" />
+            <mxPoint x="360" y="6900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-415" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="6900" as="sourcePoint" />
+            <mxPoint x="620" y="6900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-416" value="Z_MP2_Avar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="7090" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-417" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="7090" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-418" value="Функция защиты по аварии двигателя приточного вентилятора MP2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="7089" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-419" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="7110" as="sourcePoint" />
+            <mxPoint x="480" y="7110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-420" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="7110" as="sourcePoint" />
+            <mxPoint x="620" y="7110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-421" value="Z_MP2_NP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="7170" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-422" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="7170" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-423" value="Функция защиты отсутствия питания двигателя приточного вентилятора MP2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="7169" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-424" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="7190" as="sourcePoint" />
+            <mxPoint x="480" y="7190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-425" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="7190" as="sourcePoint" />
+            <mxPoint x="620" y="7190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-426" value="Z_MP2_NPit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="7250" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-427" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="7250" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-428" value="Функция защиты нет питания двигателя приточного вентилятора MP2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="7249" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-429" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="7270" as="sourcePoint" />
+            <mxPoint x="480" y="7270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-430" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="7270" as="sourcePoint" />
+            <mxPoint x="620" y="7270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-431" value="Z_MP2_Pereg" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="7330" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-432" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="7330" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-433" value="Функция защиты перегрева двигателя приточного вентилятора MP2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="7329" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-434" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="7350" as="sourcePoint" />
+            <mxPoint x="480" y="7350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-435" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="7350" as="sourcePoint" />
+            <mxPoint x="620" y="7350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-436" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="6920" as="sourcePoint" />
+            <mxPoint x="440" y="6930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-437" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="6930" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-438" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="7050" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-439" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="7090" as="sourcePoint" />
+            <mxPoint x="440" y="7350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-440" value="Z_MV2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="7410" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-441" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="7410" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-442" value="Папка с защитами вытяжного вентилятора MV2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="7409" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-443" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="7430" as="sourcePoint" />
+            <mxPoint x="360" y="7430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-444" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="7430" as="sourcePoint" />
+            <mxPoint x="620" y="7430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-445" value="Z_MV2_Avar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="7490" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-446" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="7490" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-447" value="Функция защиты по аварии двигателя вытяжного вентилятора MV2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="7489" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-448" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="7510" as="sourcePoint" />
+            <mxPoint x="480" y="7510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-449" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="7510" as="sourcePoint" />
+            <mxPoint x="620" y="7510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-450" value="Z_MV2_NP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="7570" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-451" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="7570" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-452" value="Функция защиты отсутствия питания двигателя вытяжного вентилятора MV2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="7569" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-453" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="7590" as="sourcePoint" />
+            <mxPoint x="480" y="7590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-454" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="7590" as="sourcePoint" />
+            <mxPoint x="620" y="7590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-455" value="Z_MV2_NPit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="7650" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-456" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="7650" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-457" value="Функция защиты нет питания двигателя вытяжного вентилятора MV2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="7649" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-458" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="7670" as="sourcePoint" />
+            <mxPoint x="480" y="7670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-459" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="7670" as="sourcePoint" />
+            <mxPoint x="620" y="7670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-460" value="Z_MV2_Pereg" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="7730" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-461" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="7730" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-462" value="Функция защиты перегрева двигателя вытяжного вентилятора MV2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="7729" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-463" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="7750" as="sourcePoint" />
+            <mxPoint x="480" y="7750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-464" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="7750" as="sourcePoint" />
+            <mxPoint x="620" y="7750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-465" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="7450" as="sourcePoint" />
+            <mxPoint x="440" y="7750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-466" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="5510" as="sourcePoint" />
+            <mxPoint x="320" y="5760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-467" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="5760" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-468" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="5880" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-469" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="5920" as="sourcePoint" />
+            <mxPoint x="320" y="6930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-470" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="6930" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-471" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="7050" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-472" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="7090" as="sourcePoint" />
+            <mxPoint x="320" y="7430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-473" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="4870" as="sourcePoint" />
+            <mxPoint x="200" y="5490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-474" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="80" as="sourcePoint" />
+            <mxPoint x="80" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-475" value="10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1080" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-476" value="10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1200" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-477" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="1240" as="sourcePoint" />
+            <mxPoint x="80" y="2250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-478" value="11" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="2250" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-479" value="11" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="2370" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-480" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="2410" as="sourcePoint" />
+            <mxPoint x="80" y="3420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-481" value="12" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="3420" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-482" value="12" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="3540" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-483" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="3580" as="sourcePoint" />
+            <mxPoint x="80" y="4590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="oqpHpLzVFz-484" value="13" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="4590" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-485" value="13" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="4710" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="oqpHpLzVFz-486" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="4750" as="sourcePoint" />
+            <mxPoint x="80" y="4850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

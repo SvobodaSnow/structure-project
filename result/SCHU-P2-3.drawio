@@ -1,0 +1,1673 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Страница — 1" id="aamezZmQvxMuSM1Q3HjA">
+    <mxGraphModel dx="2300" dy="1230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TYpOMYwneC-1" value="Main" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="80" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-2" value="Default_value" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="120" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="120" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-4" value="Функция для сброса уставок до стандартных" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="119" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="140" as="sourcePoint" />
+            <mxPoint x="120" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="140" as="sourcePoint" />
+            <mxPoint x="620" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-7" value="Persist" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="200" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="200" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-9" value="Функция для сохранения уставок в памяти ПЛК" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="199" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="220" as="sourcePoint" />
+            <mxPoint x="120" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="220" as="sourcePoint" />
+            <mxPoint x="620" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-12" value="IM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="280" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="280" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-14" value="Папка с функциями управления механизмами" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="279" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="300" as="sourcePoint" />
+            <mxPoint x="120" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="300" as="sourcePoint" />
+            <mxPoint x="620" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-17" value="ALL_IM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="360" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="360" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-19" value="Функции управления механизмами" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="359" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="380" as="sourcePoint" />
+            <mxPoint x="240" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="380" as="sourcePoint" />
+            <mxPoint x="620" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-22" value="CHASTOTA_M1_M2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="440" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="440" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-24" value="Функция регулирования частоты" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="439" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="460" as="sourcePoint" />
+            <mxPoint x="240" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="460" as="sourcePoint" />
+            <mxPoint x="620" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-27" value="M1_Upr" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="520" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="520" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-29" value="Функция управления приточным вентилятором M1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="519" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="540" as="sourcePoint" />
+            <mxPoint x="240" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="540" as="sourcePoint" />
+            <mxPoint x="620" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-32" value="M2_Upr" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="600" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="600" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-34" value="Функция управления приточным вентилятором M2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="599" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="620" as="sourcePoint" />
+            <mxPoint x="240" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="620" as="sourcePoint" />
+            <mxPoint x="620" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-37" value="P1_Upr" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="680" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="680" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-39" value="Функция управления насосом P1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="679" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="700" as="sourcePoint" />
+            <mxPoint x="240" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-41" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="700" as="sourcePoint" />
+            <mxPoint x="620" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-42" value="P2_Upr" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="760" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="760" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-44" value="Функция управления насосом P2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="759" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-45" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="780" as="sourcePoint" />
+            <mxPoint x="240" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-46" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="780" as="sourcePoint" />
+            <mxPoint x="620" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-47" value="PE_Upr" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="840" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="840" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-49" value="Функция управления вентилятором по давлению" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="839" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-50" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="860" as="sourcePoint" />
+            <mxPoint x="240" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="860" as="sourcePoint" />
+            <mxPoint x="620" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-52" value="razr_pusk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="920" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="920" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-54" value="Функция разрешения на пуск" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="919" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-55" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="940" as="sourcePoint" />
+            <mxPoint x="240" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-56" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="940" as="sourcePoint" />
+            <mxPoint x="620" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-57" value="YA1_Upr" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1000" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1000" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-59" value="Функция управления регулятором YA1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="999" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-60" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1020" as="sourcePoint" />
+            <mxPoint x="240" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-61" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1020" as="sourcePoint" />
+            <mxPoint x="620" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-62" value="YA1_Upr_1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1240" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1240" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-64" value="Функция управления регулятором YA1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1239" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-65" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1260" as="sourcePoint" />
+            <mxPoint x="240" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-66" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1260" as="sourcePoint" />
+            <mxPoint x="620" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-67" value="YA2_Upr" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1320" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1320" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-69" value="Функция управления регулятором YA2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1319" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-70" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1340" as="sourcePoint" />
+            <mxPoint x="240" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-71" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1340" as="sourcePoint" />
+            <mxPoint x="620" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-72" value="YA3_Upr" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1400" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1400" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-74" value="Функция управления регулятором YA3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1399" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-75" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1420" as="sourcePoint" />
+            <mxPoint x="240" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-76" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1420" as="sourcePoint" />
+            <mxPoint x="620" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-77" value="YA4_Upr" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1480" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-78" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1480" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-79" value="Функция управления регулятором YA4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1479" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-80" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1500" as="sourcePoint" />
+            <mxPoint x="240" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-81" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1500" as="sourcePoint" />
+            <mxPoint x="620" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-82" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="320" as="sourcePoint" />
+            <mxPoint x="200" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-83" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1080" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-84" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1200" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-85" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1240" as="sourcePoint" />
+            <mxPoint x="200" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-86" value="Input" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1560" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-87" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1560" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-88" value="Папка с функциями обработки внешних данных" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1559" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-89" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="1580" as="sourcePoint" />
+            <mxPoint x="120" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-90" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="1580" as="sourcePoint" />
+            <mxPoint x="620" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-91" value="ALL_Input" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1640" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-92" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1640" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-93" value="Функции для опроса и обработки входных переменных" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1639" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-94" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1660" as="sourcePoint" />
+            <mxPoint x="240" y="1660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-95" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1660" as="sourcePoint" />
+            <mxPoint x="620" y="1660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-96" value="VALID_VH_VEL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1720" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-97" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1720" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-98" value="Функция проверки входных величин" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1719" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-99" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1740" as="sourcePoint" />
+            <mxPoint x="240" y="1740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-100" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1740" as="sourcePoint" />
+            <mxPoint x="620" y="1740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-101" value="AI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1800" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-102" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1800" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-103" value="Папка с функциями обработки входных аналоговых сигналов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1799" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-104" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1820" as="sourcePoint" />
+            <mxPoint x="240" y="1820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-105" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1820" as="sourcePoint" />
+            <mxPoint x="620" y="1820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-106" value="P" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1880" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-107" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1880" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-108" value="Функция обработки показаний с датчика давления" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1879" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-109" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1900" as="sourcePoint" />
+            <mxPoint x="360" y="1900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-110" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1900" as="sourcePoint" />
+            <mxPoint x="620" y="1900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-111" value="TE1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1960" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-112" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1960" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-113" value="Функция обработки показаний с датчика температуры TE1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1959" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-114" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1980" as="sourcePoint" />
+            <mxPoint x="360" y="1980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-115" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="1980" as="sourcePoint" />
+            <mxPoint x="620" y="1980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-116" value="TE2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="2040" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-117" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2040" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-118" value="Функция обработки показаний с датчика температуры TE2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2039" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-119" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="2060" as="sourcePoint" />
+            <mxPoint x="360" y="2060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-120" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="2060" as="sourcePoint" />
+            <mxPoint x="620" y="2060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-121" value="UE1_T" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="2120" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-122" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2120" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-123" value="Функция обработки показаний температуры с датчика температуры и влажности UE1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2119" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-124" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="2140" as="sourcePoint" />
+            <mxPoint x="360" y="2140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-125" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="2140" as="sourcePoint" />
+            <mxPoint x="620" y="2140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-126" value="UE1_VL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="2200" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-127" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2200" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-128" value="Функция обработки показаний влажности с датчика температуры и влажности UE1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2199" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-129" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="2220" as="sourcePoint" />
+            <mxPoint x="360" y="2220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-130" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="2220" as="sourcePoint" />
+            <mxPoint x="620" y="2220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-131" value="UE2_T" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="2410" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-132" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2410" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-133" value="Функция обработки показаний температуры с датчика температуры и влажности UE2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2409" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-134" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="2430" as="sourcePoint" />
+            <mxPoint x="360" y="2430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-135" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="2430" as="sourcePoint" />
+            <mxPoint x="620" y="2430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-136" value="UE2_VL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="2490" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-137" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2490" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-138" value="Функция обработки показаний влажности с датчика температуры и влажности UE2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2489" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-139" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="2510" as="sourcePoint" />
+            <mxPoint x="360" y="2510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-140" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="2510" as="sourcePoint" />
+            <mxPoint x="620" y="2510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-141" value="UE3_T" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="2570" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-142" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2570" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-143" value="Функция обработки показаний температуры с датчика температуры и влажности UE3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2569" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-144" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="2590" as="sourcePoint" />
+            <mxPoint x="360" y="2590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-145" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="2590" as="sourcePoint" />
+            <mxPoint x="620" y="2590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-146" value="UE3_VL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="2650" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-147" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2650" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-148" value="Функция обработки показаний влажности с датчика температуры и влажности UE3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2649" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-149" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="2670" as="sourcePoint" />
+            <mxPoint x="360" y="2670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-150" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="2670" as="sourcePoint" />
+            <mxPoint x="620" y="2670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-151" value="YA2_POS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="2730" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-152" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2730" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-153" value="Функция обработки показаний положения клапана YA2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2729" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-154" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="2750" as="sourcePoint" />
+            <mxPoint x="360" y="2750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-155" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="2750" as="sourcePoint" />
+            <mxPoint x="620" y="2750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-156" value="YA3_POS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="2810" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-157" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2810" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-158" value="Функция обработки показаний положения клапана YA3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2809" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-159" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="2830" as="sourcePoint" />
+            <mxPoint x="360" y="2830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-160" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="2830" as="sourcePoint" />
+            <mxPoint x="620" y="2830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-161" value="YA4_POS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="2890" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-162" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2890" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-163" value="Функция обработки показаний положения клапана YA4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2889" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-164" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="2910" as="sourcePoint" />
+            <mxPoint x="360" y="2910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-165" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="2910" as="sourcePoint" />
+            <mxPoint x="620" y="2910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-166" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1840" as="sourcePoint" />
+            <mxPoint x="320" y="2250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-167" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2250" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-168" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2370" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-169" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="2410" as="sourcePoint" />
+            <mxPoint x="320" y="2910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-170" value="CI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="2970" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-171" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2970" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-172" value="Папка с функциями обработки входных цифровых сигналов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2969" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-173" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="2990" as="sourcePoint" />
+            <mxPoint x="240" y="2990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-174" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="2990" as="sourcePoint" />
+            <mxPoint x="620" y="2990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-175" value="M1_OB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="3050" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-176" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="3050" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-177" value="Функция обработки обратной связи по частоте с двигателя M1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="3049" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-178" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="3070" as="sourcePoint" />
+            <mxPoint x="360" y="3070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-179" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="3070" as="sourcePoint" />
+            <mxPoint x="620" y="3070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-180" value="M2_OB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="3130" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-181" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="3130" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-182" value="Функция обработки обратной связи по частоте с двигателя M2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="3129" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-183" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="3150" as="sourcePoint" />
+            <mxPoint x="360" y="3150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-184" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="3150" as="sourcePoint" />
+            <mxPoint x="620" y="3150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-185" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="3010" as="sourcePoint" />
+            <mxPoint x="320" y="3150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-186" value="ModBus" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="3210" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-187" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="3210" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-188" value="Папка с функциями обработки сигналов ModBus" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="3209" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-189" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="3230" as="sourcePoint" />
+            <mxPoint x="240" y="3230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-190" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="3230" as="sourcePoint" />
+            <mxPoint x="620" y="3230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-191" value="MB_UZT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="3290" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-192" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="3290" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-193" value="Функция обработки ModBus запросов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="3289" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-194" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="3310" as="sourcePoint" />
+            <mxPoint x="360" y="3310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-195" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="3310" as="sourcePoint" />
+            <mxPoint x="620" y="3310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-196" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="3250" as="sourcePoint" />
+            <mxPoint x="320" y="3310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-197" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1600" as="sourcePoint" />
+            <mxPoint x="200" y="2250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-198" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2250" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-199" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2370" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-200" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="2410" as="sourcePoint" />
+            <mxPoint x="200" y="3230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-201" value="Lib" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="3370" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-202" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="3370" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-203" value="Папка с библиотеками для функций" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="3369" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-204" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="3390" as="sourcePoint" />
+            <mxPoint x="120" y="3390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-205" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="3390" as="sourcePoint" />
+            <mxPoint x="620" y="3390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-206" value="ISTOK_ANALOGVH" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="3580" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-207" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="3580" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-208" value="Функция обработки аналогового сигнала" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="3579" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-209" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="3600" as="sourcePoint" />
+            <mxPoint x="240" y="3600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-210" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="3600" as="sourcePoint" />
+            <mxPoint x="620" y="3600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-211" value="ISTOK_EQ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="3660" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-212" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="3660" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-213" value="Функция проверки эквивалентности двух значений с гистерезисом" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="3659" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-214" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="3680" as="sourcePoint" />
+            <mxPoint x="240" y="3680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-215" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="3680" as="sourcePoint" />
+            <mxPoint x="620" y="3680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-216" value="ISTOK_GT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="3740" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-217" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="3740" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-218" value="Функция больше с гистерезисом" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="3739" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-219" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="3760" as="sourcePoint" />
+            <mxPoint x="240" y="3760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-220" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="3760" as="sourcePoint" />
+            <mxPoint x="620" y="3760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-221" value="ISTOK_LT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="3820" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-222" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="3820" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-223" value="Функция меньше с гистерезисом" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="3819" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-224" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="3840" as="sourcePoint" />
+            <mxPoint x="240" y="3840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-225" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="3840" as="sourcePoint" />
+            <mxPoint x="620" y="3840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-226" value="ISTOK_TaskCycleTime" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="3900" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-227" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="3900" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-228" value="Функция получения времени на один цикл программы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="3899" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-229" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="3920" as="sourcePoint" />
+            <mxPoint x="240" y="3920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-230" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="3920" as="sourcePoint" />
+            <mxPoint x="620" y="3920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-231" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="3410" as="sourcePoint" />
+            <mxPoint x="200" y="3420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-232" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="3420" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-233" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="3540" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-234" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="3580" as="sourcePoint" />
+            <mxPoint x="200" y="3920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-235" value="Output" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="3980" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-236" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="3980" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-237" value="Папка с функциями обработки выходных сигналов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="3979" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-238" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="4000" as="sourcePoint" />
+            <mxPoint x="120" y="4000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-239" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="4000" as="sourcePoint" />
+            <mxPoint x="620" y="4000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-240" value="ALL_Output" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="4060" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-241" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="4060" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-242" value="Функции выдачи и обработки выходных сигналов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4059" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-243" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="4080" as="sourcePoint" />
+            <mxPoint x="240" y="4080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-244" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="4080" as="sourcePoint" />
+            <mxPoint x="620" y="4080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-245" value="AO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="4140" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-246" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="4140" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-247" value="Папка с функциями обработки выходных аналоговых сигналов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4139" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-248" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="4160" as="sourcePoint" />
+            <mxPoint x="240" y="4160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-249" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="4160" as="sourcePoint" />
+            <mxPoint x="620" y="4160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-250" value="M1_Z" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="4220" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-251" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="4220" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-252" value="Функция обработки задания по частоте для двигателя M1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4219" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-253" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="4240" as="sourcePoint" />
+            <mxPoint x="360" y="4240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-254" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="4240" as="sourcePoint" />
+            <mxPoint x="620" y="4240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-255" value="M2_Z" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="4300" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-256" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="4300" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-257" value="Функция обработки задания по частоте для двигателя M2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4299" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-258" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="4320" as="sourcePoint" />
+            <mxPoint x="360" y="4320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-259" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="4320" as="sourcePoint" />
+            <mxPoint x="620" y="4320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-260" value="YA2_Z" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="4380" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-261" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="4380" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-262" value="Функция обработки задания по положению для клапана YA2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4379" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-263" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="4400" as="sourcePoint" />
+            <mxPoint x="360" y="4400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-264" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="4400" as="sourcePoint" />
+            <mxPoint x="620" y="4400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-265" value="YA3_Z" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="4460" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-266" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="4460" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-267" value="Функция обработки задания по положению для клапана YA3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4459" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-268" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="4480" as="sourcePoint" />
+            <mxPoint x="360" y="4480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-269" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="4480" as="sourcePoint" />
+            <mxPoint x="620" y="4480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-270" value="YA4_Z" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="4540" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-271" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="4540" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-272" value="Функция обработки задания по положению для клапана YA4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4539" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-273" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="4560" as="sourcePoint" />
+            <mxPoint x="360" y="4560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-274" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="4560" as="sourcePoint" />
+            <mxPoint x="620" y="4560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-275" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="4180" as="sourcePoint" />
+            <mxPoint x="320" y="4560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-276" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="4020" as="sourcePoint" />
+            <mxPoint x="200" y="4160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-277" value="Regim" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="4750" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-278" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="4750" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-279" value="Папка с функциями включения режимов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4749" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-280" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="4770" as="sourcePoint" />
+            <mxPoint x="120" y="4770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-281" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="4770" as="sourcePoint" />
+            <mxPoint x="620" y="4770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-282" value="ALL_Regim" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="4830" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-283" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="4830" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-284" value="Функции включения режимов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4829" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-285" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="4850" as="sourcePoint" />
+            <mxPoint x="240" y="4850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-286" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="4850" as="sourcePoint" />
+            <mxPoint x="620" y="4850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-287" value="Ostanov" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="4910" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-288" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="4910" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-289" value="Функция выбора режима &quot;ОСТАНОВ&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4909" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-290" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="4930" as="sourcePoint" />
+            <mxPoint x="240" y="4930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-291" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="4930" as="sourcePoint" />
+            <mxPoint x="620" y="4930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-292" value="Progrev" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="4990" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-293" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="4990" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-294" value="Функция выбора режима &quot;ПРОГРЕВ&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="4989" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-295" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="5010" as="sourcePoint" />
+            <mxPoint x="240" y="5010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-296" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="5010" as="sourcePoint" />
+            <mxPoint x="620" y="5010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-297" value="Pusk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="5070" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-298" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="5070" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-299" value="Функция выбора режима &quot;ПУСК&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="5069" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-300" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="5090" as="sourcePoint" />
+            <mxPoint x="240" y="5090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-301" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="5090" as="sourcePoint" />
+            <mxPoint x="620" y="5090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-302" value="Rabota" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="5150" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-303" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="5150" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-304" value="Функция выбора режима &quot;РАБОТА&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="5149" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-305" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="5170" as="sourcePoint" />
+            <mxPoint x="240" y="5170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-306" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="5170" as="sourcePoint" />
+            <mxPoint x="620" y="5170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-307" value="Sezon" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="5230" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-308" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="5230" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-309" value="Функция выбора сезона работы &quot;ЗИМА/ЛЕТО&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="5229" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-310" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="5250" as="sourcePoint" />
+            <mxPoint x="240" y="5250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-311" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="5250" as="sourcePoint" />
+            <mxPoint x="620" y="5250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-312" value="Sost" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="5310" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-313" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="5310" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-314" value="Функция &quot;ВКЛ/ВЫКЛ&quot; установки" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="5309" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-315" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="5330" as="sourcePoint" />
+            <mxPoint x="240" y="5330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-316" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="5330" as="sourcePoint" />
+            <mxPoint x="620" y="5330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-317" value="Stop" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="5390" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-318" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="5390" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-319" value="Функция выбора режима &quot;СТОП&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="5389" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-320" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="5410" as="sourcePoint" />
+            <mxPoint x="240" y="5410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-321" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="5410" as="sourcePoint" />
+            <mxPoint x="620" y="5410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-322" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="4790" as="sourcePoint" />
+            <mxPoint x="200" y="5410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-323" value="TZBiS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="5470" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-324" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="5470" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-325" value="Папка с функциями защит и сигнализаций" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="5469" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-326" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="5490" as="sourcePoint" />
+            <mxPoint x="120" y="5490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-327" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="5490" as="sourcePoint" />
+            <mxPoint x="620" y="5490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-328" value="S" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="5550" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-329" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="5550" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-330" value="Папка с функциями сигнализаций" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="5549" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-331" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="5570" as="sourcePoint" />
+            <mxPoint x="240" y="5570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-332" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="5570" as="sourcePoint" />
+            <mxPoint x="620" y="5570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-333" value="ALL_S" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="5630" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-334" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="5630" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-335" value="Функции отслеживания сигнализаций" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="5629" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-336" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="5650" as="sourcePoint" />
+            <mxPoint x="360" y="5650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-337" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="5650" as="sourcePoint" />
+            <mxPoint x="620" y="5650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-338" value="GVS1_R" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="5710" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-339" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="5710" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-340" value="Функция сигнализации работы ГВС1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="5709" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-341" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="5730" as="sourcePoint" />
+            <mxPoint x="360" y="5730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-342" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="5730" as="sourcePoint" />
+            <mxPoint x="620" y="5730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-343" value="GVS2_R" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="5920" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-344" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="5920" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-345" value="Функция сигнализации работы ГВС2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="5919" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-346" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="5940" as="sourcePoint" />
+            <mxPoint x="360" y="5940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-347" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="5940" as="sourcePoint" />
+            <mxPoint x="620" y="5940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-348" value="HVS_R" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="6000" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-349" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="6000" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-350" value="Функция сигнализации работы ХВС" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="5999" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-351" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="6020" as="sourcePoint" />
+            <mxPoint x="360" y="6020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-352" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="6020" as="sourcePoint" />
+            <mxPoint x="620" y="6020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-353" value="S_STER_REG" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="6080" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-354" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="6080" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-355" value="Функция сигнализации работы стерегущего режима" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="6079" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-356" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="6100" as="sourcePoint" />
+            <mxPoint x="360" y="6100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-357" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="6100" as="sourcePoint" />
+            <mxPoint x="620" y="6100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-358" value="S_ZAM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="6160" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-359" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="6160" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-360" value="Функция сигнализации заморозки" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="6159" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-361" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="6180" as="sourcePoint" />
+            <mxPoint x="360" y="6180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-362" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="6180" as="sourcePoint" />
+            <mxPoint x="620" y="6180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-363" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="5590" as="sourcePoint" />
+            <mxPoint x="320" y="5760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-364" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="5760" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-365" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="5880" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-366" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="5920" as="sourcePoint" />
+            <mxPoint x="320" y="6180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-367" value="TZB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="6240" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-368" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="6240" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-369" value="Папка с функциями защит" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="6239" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-370" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="6260" as="sourcePoint" />
+            <mxPoint x="240" y="6260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-371" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="6260" as="sourcePoint" />
+            <mxPoint x="620" y="6260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-372" value="ALL_TZB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="6320" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-373" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="6320" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-374" value="Функции отслеживания защит" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="6319" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-375" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="6340" as="sourcePoint" />
+            <mxPoint x="360" y="6340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-376" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="6340" as="sourcePoint" />
+            <mxPoint x="620" y="6340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-377" value="AVR_M" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="6400" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-378" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="6400" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-379" value="Функция АВР для вентиляторов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="6399" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-380" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="6420" as="sourcePoint" />
+            <mxPoint x="360" y="6420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-381" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="6420" as="sourcePoint" />
+            <mxPoint x="620" y="6420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-382" value="Sbros_All" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="6480" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-383" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="6480" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-384" value="Функция связи кнопок сброса" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="6479" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-385" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="6500" as="sourcePoint" />
+            <mxPoint x="360" y="6500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-386" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="6500" as="sourcePoint" />
+            <mxPoint x="620" y="6500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-387" value="Z_ALL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="6560" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-388" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="6560" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-389" value="Функция вызова всех защит" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="6559" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-390" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="6580" as="sourcePoint" />
+            <mxPoint x="360" y="6580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-391" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="6580" as="sourcePoint" />
+            <mxPoint x="620" y="6580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-392" value="Z_GVS1_Otk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="6640" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-393" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="6640" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-394" value="Функция защиты отказа ГВС1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="6639" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-395" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="6660" as="sourcePoint" />
+            <mxPoint x="360" y="6660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-396" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="6660" as="sourcePoint" />
+            <mxPoint x="620" y="6660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-397" value="Z_M1_Avar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="6720" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-398" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="6720" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-399" value="Функция защиты по аварии двигателя приточного вентилятора M1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="6719" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-400" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="6740" as="sourcePoint" />
+            <mxPoint x="360" y="6740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-401" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="6740" as="sourcePoint" />
+            <mxPoint x="620" y="6740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-402" value="Z_M1_NP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="6800" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-403" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="6800" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-404" value="Функция защиты отсутствия питания двигателя приточного вентилятора M1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="6799" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-405" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="6820" as="sourcePoint" />
+            <mxPoint x="360" y="6820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-406" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="6820" as="sourcePoint" />
+            <mxPoint x="620" y="6820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-407" value="Z_M1_Pereg" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="6880" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-408" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="6880" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-409" value="Функция защиты перегрева двигателя приточного вентилятора M1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="6879" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-410" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="6900" as="sourcePoint" />
+            <mxPoint x="360" y="6900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-411" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="6900" as="sourcePoint" />
+            <mxPoint x="620" y="6900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-412" value="Z_M2_Avar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="7090" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-413" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="7090" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-414" value="Функция защиты по аварии двигателя приточного вентилятора M2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="7089" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-415" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="7110" as="sourcePoint" />
+            <mxPoint x="360" y="7110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-416" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="7110" as="sourcePoint" />
+            <mxPoint x="620" y="7110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-417" value="Z_M2_NP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="7170" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-418" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="7170" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-419" value="Функция защиты отсутствия питания двигателя приточного вентилятора M2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="7169" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-420" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="7190" as="sourcePoint" />
+            <mxPoint x="360" y="7190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-421" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="7190" as="sourcePoint" />
+            <mxPoint x="620" y="7190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-422" value="Z_M2_Pereg" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="7250" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-423" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="7250" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-424" value="Функция защиты перегрева двигателя приточного вентилятора M2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="7249" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-425" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="7270" as="sourcePoint" />
+            <mxPoint x="360" y="7270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-426" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="7270" as="sourcePoint" />
+            <mxPoint x="620" y="7270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-427" value="Z_NET_VKH_NAPR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="7330" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-428" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="7330" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-429" value="Функция защиты нет входного напряжения" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="7329" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-430" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="7350" as="sourcePoint" />
+            <mxPoint x="360" y="7350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-431" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="7350" as="sourcePoint" />
+            <mxPoint x="620" y="7350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-432" value="Z_NP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="7410" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-433" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="7410" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-434" value="Функция защиты отсутствия давления" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="7409" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-435" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="7430" as="sourcePoint" />
+            <mxPoint x="360" y="7430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-436" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="7430" as="sourcePoint" />
+            <mxPoint x="620" y="7430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-437" value="Z_OTKAZ_VTOR_ZEP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="7490" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-438" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="7490" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-439" value="Функция защиты отказа вторичных цепей" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="7489" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-440" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="7510" as="sourcePoint" />
+            <mxPoint x="360" y="7510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-441" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="7510" as="sourcePoint" />
+            <mxPoint x="620" y="7510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-442" value="Z_P1_NP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="7570" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-443" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="7570" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-444" value="Функция защиты по отсутствию питания насоса P1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="7569" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-445" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="7590" as="sourcePoint" />
+            <mxPoint x="360" y="7590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-446" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="7590" as="sourcePoint" />
+            <mxPoint x="620" y="7590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-447" value="Z_P2_NP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="7650" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-448" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="7650" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-449" value="Функция защиты по отсутствию питания насоса P2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="7649" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-450" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="7670" as="sourcePoint" />
+            <mxPoint x="360" y="7670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-451" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="7670" as="sourcePoint" />
+            <mxPoint x="620" y="7670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-452" value="Z_P2_Otk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="7730" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-453" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="7730" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-454" value="Функция защиты по отказу насоса P2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="7729" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-455" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="7750" as="sourcePoint" />
+            <mxPoint x="360" y="7750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-456" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="7750" as="sourcePoint" />
+            <mxPoint x="620" y="7750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-457" value="Z_P_PrevDav" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="7810" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-458" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="7810" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-459" value="Функция защиты по превышению давления" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="7809" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-460" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="7830" as="sourcePoint" />
+            <mxPoint x="360" y="7830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-461" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="7830" as="sourcePoint" />
+            <mxPoint x="620" y="7830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-462" value="Z_Pozhar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="7890" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-463" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="7890" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-464" value="Функция защиты по сигналу пожар" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="7889" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-465" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="7910" as="sourcePoint" />
+            <mxPoint x="360" y="7910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-466" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="7910" as="sourcePoint" />
+            <mxPoint x="620" y="7910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-467" value="Z_YA1_Otk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="7970" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-468" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="7970" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-469" value="Функция защиты по отказу клапана YA1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="7969" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-470" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="7990" as="sourcePoint" />
+            <mxPoint x="360" y="7990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-471" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="7990" as="sourcePoint" />
+            <mxPoint x="620" y="7990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-472" value="Z_YA2_Otk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="8050" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-473" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="8050" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-474" value="Функция защиты по отказу клапана YA2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="8049" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-475" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="8070" as="sourcePoint" />
+            <mxPoint x="360" y="8070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-476" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="8070" as="sourcePoint" />
+            <mxPoint x="620" y="8070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-477" value="Z_YA3_Otk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="8260" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-478" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="8260" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-479" value="Функция защиты по отказу клапана YA3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="8259" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-480" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="8280" as="sourcePoint" />
+            <mxPoint x="360" y="8280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-481" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="8280" as="sourcePoint" />
+            <mxPoint x="620" y="8280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-482" value="Z_YA4_Otk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="8340" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-483" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="8340" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-484" value="Функция защиты по отказу клапана YA4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="8339" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-485" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="8360" as="sourcePoint" />
+            <mxPoint x="360" y="8360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-486" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="8360" as="sourcePoint" />
+            <mxPoint x="620" y="8360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-487" value="Z_Zam" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="8420" width="160" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-488" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="8420" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-489" value="Функция защиты по заморозке" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="630" y="8419" width="160" height="42" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-490" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="8440" as="sourcePoint" />
+            <mxPoint x="360" y="8440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-491" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="8440" as="sourcePoint" />
+            <mxPoint x="620" y="8440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-492" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="6280" as="sourcePoint" />
+            <mxPoint x="320" y="6930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-493" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="6930" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-494" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="7050" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-495" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="7090" as="sourcePoint" />
+            <mxPoint x="320" y="8100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-496" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="8100" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-497" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="8220" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-498" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="8260" as="sourcePoint" />
+            <mxPoint x="320" y="8440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-499" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="5510" as="sourcePoint" />
+            <mxPoint x="200" y="5760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-500" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="5760" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-501" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="5880" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-502" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="5920" as="sourcePoint" />
+            <mxPoint x="200" y="6260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-503" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="80" as="sourcePoint" />
+            <mxPoint x="80" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-504" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1080" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-505" value="9" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1200" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-506" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="1240" as="sourcePoint" />
+            <mxPoint x="80" y="2250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-507" value="10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="2250" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-508" value="10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="2370" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-509" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="2410" as="sourcePoint" />
+            <mxPoint x="80" y="3420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-510" value="11" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="3420" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-511" value="11" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="3540" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-512" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="3580" as="sourcePoint" />
+            <mxPoint x="80" y="4590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>        <mxCell id="TYpOMYwneC-513" value="12" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="4590" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-514" value="12" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="4710" width="40" height="40" as="geometry" />
+        </mxCell>        <mxCell id="TYpOMYwneC-515" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="4750" as="sourcePoint" />
+            <mxPoint x="80" y="5490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

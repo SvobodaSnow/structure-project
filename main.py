@@ -1,13 +1,21 @@
 import os
 from os.path import isfile
+from tkinter import *
 
 from library.DictionaryWork import *
 from library.DrawFile import *
 
 pageHeight = 1169
-function_is_add = True
 
 paths_TC3 = {"ЩУ-П2.5_1": r'C:\Users\user\Desktop\Работа\Исток\Выкаченные шкафы\ЩУ-П2.5_1\PLC\SCHU_P2_5\POUs'}
+
+w = Tk()
+w.title("Генерация структур проектов TwinCat")
+w.minsize(1200, 250)
+frame = Frame(w, padx=20, pady=20)
+frame.pack(expand=True)
+function_is_add_check_button = BooleanVar()
+# function_is_add = function_is_add_check_button.get()
 
 
 def get_structure_TC2(file_name: str):
@@ -17,7 +25,7 @@ def get_structure_TC2(file_name: str):
     for s in f:
         if s.find("@PATH") != -1:
             path = s[s.find("'") + 1:s.rfind("'")].split('\\/')[1:]
-        if s.find('PROGRAM') == 0:
+        if s.find('PROGRAM') == 0 or s.find("FUNCTION_BLOCK") == 0:
             if "MAIN" not in s:
                 name_function = s[s.find(" ") + 1:-1]
                 t = el_m
@@ -32,12 +40,13 @@ def get_structure_TC2(file_name: str):
 def get_structure_TC3(path: str):
     el_m = {}
     for name_file in os.listdir(path):
-        file = os.path.join(path, name_file)
-        if isfile(file):
-            name = name_file[:name_file.rfind(".")]
-            el_m[name] = name
-        else:
-            el_m[name_file] = get_structure_TC3(file)
+        if "MAIN" not in name_file:
+            file = os.path.join(path, name_file)
+            if isfile(file):
+                name = name_file[:name_file.rfind(".")]
+                el_m[name] = name
+            else:
+                el_m[name_file] = get_structure_TC3(file)
     return el_m
 
 
@@ -75,7 +84,7 @@ def print_dict(draw_file: DrawFile, d: dict, catalog=None, offset=0, block=0, st
         last_block = 14 * step + block * step * 8 + delta
         block += 1
 
-    if function_is_add or catalog is None:
+    if function_is_add_check_button.get() or catalog is None:
         for s in d:
             s_e = d[s]
             if s_e.__class__ is not dict:
@@ -101,7 +110,7 @@ def print_dict(draw_file: DrawFile, d: dict, catalog=None, offset=0, block=0, st
         if s_e.__class__ is dict:
             block, delta, f_v, last_y, number_start = print_dict(draw_file, s_e, catalog=s, offset=offset + 1, block=block,
                                                    delta=delta, number_start=number_start)
-            if not f_v and function_is_add:
+            if not f_v and function_is_add_check_button.get():
                 number_start = connect_blocks(draw_file, 20 * step + offset * 12 * step, last_y + 2 * step,
                                20 * step + offset * 12 * step, 14 * step + (block - 1) * step * 8 + delta, number_start)
             f = True
@@ -124,18 +133,121 @@ def draw_struct(file_name: str, struct: dict):
     return
 
 
-if __name__ == '__main__':
+def get_all_struct_TC2():
     for name_file_exp in os.listdir('sources'):
         file_name = "sources/" + name_file_exp
         el = get_structure_TC2(file_name)
         dob = ''
-        if not function_is_add:
+        if not function_is_add_check_button.get():
             dob = " (без функций)"
-        draw_struct(file_name[file_name.rfind('/'):] + dob, el)
+        draw_struct(file_name[file_name.rfind('/'):file_name.rfind('.')] + dob, el)
+    return
 
+
+def get_all_struct_TC3():
     for name_stand_TC3 in paths_TC3:
         name_path_TC3 = paths_TC3[name_stand_TC3]
         el = get_structure_TC3(name_path_TC3)
-        if not function_is_add:
+        dob = ''
+        if not function_is_add_check_button.get():
             dob = " (без функций)"
         draw_struct(name_stand_TC3 + dob, el)
+    return
+
+
+def zag():
+
+    return
+
+
+cal_btn = Button(
+    frame,
+    text='Сформировать структуры для проектов TC2',
+    command=get_all_struct_TC2,
+    pady = 10,
+    padx=10
+)
+cal_btn.grid(row=5, column=2)
+cal_btn = Button(
+    frame,
+    text='Сформировать структуры для проектов TC3',
+    command=get_all_struct_TC3,
+    pady=10,
+    padx=10
+)
+cal_btn.grid(row=5, column=3)
+Checkbutton(frame, text="Учитывать в структуре функции?", variable=function_is_add_check_button).grid(row=0, column=3)
+Label(frame, text="").grid(row=4, column=2)
+Label(frame, text="").grid(row=1, column=2)
+
+#Кнопки работы со словарями
+#Выгрузка
+cal_btn = Button(
+    frame,
+    text='Выгрузить словарь с экземплярами\nпапок',
+    command=zag,
+    pady=10,
+    padx=10
+)
+cal_btn.grid(row=3, column=1)
+cal_btn = Button(
+    frame,
+    text='Выгрузить словарь с экземплярами\nфункций',
+    command=zag,
+    pady=10,
+    padx=10
+)
+cal_btn.grid(row=3, column=2)
+cal_btn = Button(
+    frame,
+    text='Выгрузить словарь с экземплярами\nрегулярных выражений папок',
+    command=zag,
+    pady=10,
+    padx=10
+)
+cal_btn.grid(row=3, column=3)
+cal_btn = Button(
+    frame,
+    text='Выгрузить словарь с экземплярами\nрегулярных выражений функций',
+    command=zag,
+    pady=10,
+    padx=10
+)
+cal_btn.grid(row=3, column=4)
+
+#Загрузка
+cal_btn = Button(
+    frame,
+    text='Загрузить словарь с экземплярами\nпапок',
+    command=zag,
+    pady=10,
+    padx=10
+)
+cal_btn.grid(row=2, column=1)
+cal_btn = Button(
+    frame,
+    text='Загрузить словарь с экземплярами\nфункций',
+    command=zag,
+    pady=10,
+    padx=10
+)
+cal_btn.grid(row=2, column=2)
+cal_btn = Button(
+    frame,
+    text='Загрузить словарь с экземплярами\nрегулярных выражений папок',
+    command=zag,
+    pady=10,
+    padx=10
+)
+cal_btn.grid(row=2, column=3)
+cal_btn = Button(
+    frame,
+    text='Загрузить словарь с экземплярами\nрегулярных выражений функций',
+    command=zag,
+    pady=10,
+    padx=10
+)
+cal_btn.grid(row=2, column=4)
+
+if __name__ == '__main__':
+    w.mainloop()
