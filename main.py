@@ -6,18 +6,24 @@ import tkinter.messagebox as mb
 
 from library.DictionaryWork import *
 from library.DrawFile import *
+from library.MainWindow import *
 
 pageHeight = 1169
 
-paths_TC3 = {"ЩУ-П2.5_1": r'C:\Users\user\Desktop\Работа\Исток\Выкаченные шкафы\ЩУ-П2.5_1\PLC\SCHU_P2_5\POUs'}
+path_TC2 = ''
+path_result = ''
 
+# Создание главного окна
 w = Tk()
 w.title("Генерация структур проектов TwinCat")
 w.minsize(1200, 500)
 frame = Frame(w, padx=20, pady=20)
 frame.pack(expand=True)
+
+# Окно редактирования списка проектов TC3
+
+# Логические переменные
 function_is_add_check_button = BooleanVar()
-save_to_same_folder = BooleanVar()
 
 
 def get_structure_TC2(file_name: str):
@@ -130,7 +136,7 @@ def print_dict(draw_file: DrawFile, d: dict, catalog=None, offset=0, block=0, st
 
 
 def draw_struct(file_name: str, struct: dict):
-    dr = create_file("result", file_name)
+    dr = create_file(path_result, file_name)
     step = 10
 
     dr.add_rectangle(4 * step, 4 * step, 8 * step, 4 * step, 1, "Main")
@@ -141,24 +147,30 @@ def draw_struct(file_name: str, struct: dict):
 
 
 def get_all_struct_TC2():
-    for name_file_exp in os.listdir('sources'):
-        file_name = "sources/" + name_file_exp
-        el = get_structure_TC2(file_name)
-        dob = ''
-        if not function_is_add_check_button.get():
-            dob = " (без функций)"
-        draw_struct(file_name[file_name.rfind('/'):file_name.rfind('.')] + dob, el)
+    if len(path_TC2) != 0:
+        for name_file_exp in os.listdir('sources'):
+            file_name = "sources/" + name_file_exp
+            el = get_structure_TC2(file_name)
+            dob = ''
+            if not function_is_add_check_button.get():
+                dob = " (без функций)"
+            draw_struct(file_name[file_name.rfind('/'):file_name.rfind('.')] + dob, el)
+    else:
+        mb.showerror("Ошибка!", "Папка с проектами TC2 не указана!")
     return
 
 
 def get_all_struct_TC3():
-    for name_stand_TC3 in paths_TC3:
-        name_path_TC3 = paths_TC3[name_stand_TC3]
-        el = get_structure_TC3(name_path_TC3)
-        dob = ''
-        if not function_is_add_check_button.get():
-            dob = " (без функций)"
-        draw_struct(name_stand_TC3 + dob, el)
+    if len(paths_TC3):
+        for name_stand_TC3 in paths_TC3:
+            name_path_TC3 = paths_TC3[name_stand_TC3]
+            el = get_structure_TC3(name_path_TC3)
+            dob = ''
+            if not function_is_add_check_button.get():
+                dob = " (без функций)"
+            draw_struct(name_stand_TC3 + dob, el)
+    else:
+        mb.showerror("Ошибка!", "Папки с проектами TC3 не указаны!")
     return
 
 
@@ -262,6 +274,17 @@ def set_file_dictionary_reg_path_from_default_file():
                                                                                    "резервный файл? Действие "
                                                                                    "необратимо!"):
         load_to_def_file_dictionary_reg_path()
+    return
+
+
+def test_window():
+    w_p = Tk()
+    w_p.title("Генерация структур проектов TwinCat")
+    w_p.minsize(1200, 500)
+    frame_p = Frame(w, padx=20, pady=20)
+    frame_p.pack(expand=True)
+
+    w_p.mainloop()
     return
 
 
